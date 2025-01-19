@@ -1,3 +1,4 @@
+# Add VST_SDK_2.4 under ./opt before building
 export BOOST_INCLUDEDIR="/opt/homebrew/opt/boost/include"
 export BOOST_LIBRARYDIR="/opt/homebrew/opt/boost/lib"
 export BOOST_ROOT="/opt/homebrew/opt/boost/include"
